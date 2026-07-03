@@ -270,19 +270,19 @@ BACKEND_ARCHITECTURE.md
 
 ## Home Page
 
-```
+
 ![Home](screenshots/home.png)
-```
+
 
 ## API Documentation
 
-```
+
 ![API Documentation](screenshots/api_doc.png)
-```
+
 
 ## SEO Report
 
-```
+
 ![Report 1](screenshots/report1.png)
 
 ![Report 2](screenshots/report2.png)
@@ -290,7 +290,7 @@ BACKEND_ARCHITECTURE.md
 ![Report 3](screenshots/report3.png)
 
 ![Report 4](screenshots/report4.png)
-```
+
 
 ---
 
